@@ -1,2 +1,3 @@
-# Arndt_et_al_2020
- MATLAB script
+# Discovery-based MATLAB program for gene analysis 
+Function: to explore potential correlations between gene expression and associated survival rates
+Created by Michael J. Diaz for Mary F. Arndt and Dr. George Blanck's research computing group. 
